@@ -1,0 +1,213 @@
+﻿lat;lon;ele;nr opname;bestandsnamen foto's (3 per opname);;;vegetatiestructuur;type;bedekking boomlaag (%);bedekking kruidlaag (%);opslag struweel+boom (%)
+52,12303704;5,83010802;52,458347;1;HV_001.jpg;HV_002.jpg;HV_003.jpg;open naaldbos;douglas;35;;veel douglas
+52,12323502;5,829866035;53,403259;2;HV_004.jpg;HV_005.jpg;HV_006.jpg;half-open naaldbos;douglas;50;;gering
+52,12297501;5,829445012;52,086891;3;HV_007.jpg;HV_008.jpg;HV_009.jpg;naaldbos;douglas;50;;gering
+52,12247796;5,829045027;50,216553;4;HV_010.jpg;HV_011.jpg;HV_012.jpg;naaldbos;grove den;30;;gering
+52,12243496;5,828631967;49,97501;5;HV_013.jpg;HV_014.jpg;HV_015.jpg;naaldbos;grove den;40;;veel middelhoge grove den
+52,12210103;5,82759303;48,560104;6;HV_016.jpg;HV_017.jpg;HV_018.jpg;open naaldbos;grove den;20;;veel douglas+grove den
+52,12183801;5,82710403;48,3181;7;HV_019.jpg;HV_020.jpg;HV_021.jpg;open naaldbos;grove den;25;;veel grove den
+52,12163097;5,826488966;48,092113;8;HV_022.jpg;HV_023.jpg;HV_024.jpg;half-open naaldbos;grove den;70;;gering
+52,12168604;5,825667959;47,539406;9;HV_025.jpg;HV_026.jpg;HV_027.jpg;half-open naaldbos;grove den;hoog 5, middelhoog 40;;veel grove den
+52,12122696;5,825415999;46,553093;10;HV_028.jpg;HV_029.jpg;HV_030.jpg;open naaldbos;grove den;30;gras 15;gering
+52,12077602;5,825061025;45,484856;11;HV_031.jpg;HV_032.jpg;HV_033.jpg;open naaldbos;grove den;25;gras 50;gering
+52,120327;5,824490972;45,397881;12;HV_034.jpg;HV_035.jpg;HV_036.jpg;open naaldbos;grove den;40;gras 50;gering
+52,120183;5,823420016;45,074821;13;HV_037.jpg;HV_038.jpg;HV_039.jpg;open naaldbos;grove den;20;gras 80;
+52,11942201;5,822627004;43,407993;14;HV_040.jpg;HV_041.jpg;HV_042.jpg;laag grasland;buntgras+mos;;gras 50, mos 50;
+52,11935403;5,821685968;43,461056;15;HV_043.jpg;HV_044.jpg;HV_045.jpg;laag grasland;buntgras+mos;;gras 50, mos 50;
+52,11918203;5,821084986;42,617958;16;HV_046.jpg;HV_047.jpg;HV_048.jpg;laag grasland;buntgras+mos;;gras 50, mos 50;
+52,11895497;5,819691997;42,138565;17;HV_049.jpg;HV_050.jpg;HV_051.jpg;laag grasland;buntgras+mos;;gras 30;grove den 5
+52,11871902;5,818325998;41,991394;18;HV_052.jpg;HV_053.jpg;HV_054.jpg;laag grasland;buntgras+mos;;gras 30;grove den 10
+52,11790396;5,818159031;40,899006;19;HV_055.jpg;HV_056.jpg;HV_057.jpg;laag grasland;buntgras+mos;;gras 40;grove den 5
+52,11726702;5,818278976;40,392582;20;HV_058.jpg;HV_059.jpg;HV_060.jpg;half-open naaldbos;grove den;50;gras 30;matig
+52,11682596;5,818631016;40,995647;21;HV_061.jpg;HV_062.jpg;HV_063.jpg;open naaldbos;grove den;30;gras+bosbes 50;matig
+52,11655799;5,819741031;40,722893;22;HV_064.jpg;HV_065.jpg;HV_066.jpg;naaldbos;grove den;60;gras 50;
+52,11546097;5,820359029;40,705143;23;HV_067.jpg;HV_068.jpg;HV_069.jpg;laag grasland;buntgras+mos;;gras 40, mos 30;
+52,11539199;5,821411964;44,865646;24;HV_070.jpg;HV_071.jpg;HV_072.jpg;open zand;zand+mos;;zand 70, mos 30;
+52,11335904;5,824016975;40,125916;25;HV_073.jpg;HV_074.jpg;HV_075.jpg;laag grasland;gras+mos;;gras 60, mos 40;grove den 10
+52,113107;5,823932989;40,229893;26;HV_076.jpg;HV_077.jpg;HV_078.jpg;laag grasland;gras+mos;;gras 30, mos 70;grove den 5
+52,112532;5,825552959;39,755371;27;HV_079.jpg;HV_080.jpg;HV_081.jpg;open zand;zand;;zand 99;grove den 1
+52,11172599;5,828122012;44,392662;28;HV_082.jpg;HV_083.jpg;HV_084.jpg;open zand;zand;;zand 99, buntgras 1;
+52,11289301;5,829446018;46,106346;29;HV_085.jpg;HV_086.jpg;HV_087.jpg;open naaldbos;grove den;30;gras 20;struweel+eik+kastanje 80
+52,11324899;5,829038993;42,969734;30;HV_088.jpg;HV_089.jpg;HV_090.jpg;open naaldbos;grove den;30;gras 30;struweel
+52,11496501;5,829019966;44,664604;31;HV_091.jpg;HV_092.jpg;HV_093.jpg;vochtige vallei/ven;grasachtigen (russen, zeggen);;kruid 95, veenmos 5;
+52,11517297;5,828807987;44,638947;32;HV_094.jpg;HV_095.jpg;HV_096.jpg;vochtige vallei/ven;grasachtigen (russen, zeggen);;kruid 60, haarmos 40;
+52,11760498;5,827435032;43,432648;33;HV_097.jpg;HV_098.jpg;HV_099.jpg;productief grasland;witbol;;kruid 100;
+52,05426302;5,822575036;51,691063;34;HV_100.jpg;HV_101.jpg;HV_102.jpg;droge heide;struikhei;;hei 100;
+52,05384501;5,822845018;49,830376;35;HV_103.jpg;HV_104.jpg;HV_105.jpg;droge heide;struikhei;;hei 100;
+52,05366002;5,822960017;49,543793;36;HV_106.jpg;HV_107.jpg;HV_108.jpg;droge heide;struikhei;;hei 100;
+52,05353798;5,823349021;48,538216;37;HV_109.jpg;HV_110.jpg;HV_111.jpg;droge heide, vergrast;struikhei+pijpestrootje;;hei 50, vergrast 50;
+52,05313004;5,823486988;47,477974;38;HV_112.jpg;HV_113.jpg;HV_114.jpg;droge heide;struikhei;;hei 100;
+52,05284799;5,823827963;47,613636;39;HV_115.jpg;HV_116.jpg;HV_117.jpg;vergrast (voorm. hei);pijpestrootje+bochtige smele;;gras 100;
+52,05237097;5,824215962;48,631256;40;HV_118.jpg;HV_119.jpg;HV_120.jpg;droge heide, vergrast;struikhei+pijpestrootje;;hei 50, vergrast 50;
+52,05088201;5,824287962;49,676579;41;HV_121.jpg;HV_122.jpg;HV_123.jpg;droge heide;struikhei;;hei 90, gras 10;
+52,05051002;5,82441302;51,161621;42;HV_124.jpg;HV_125.jpg;HV_126.jpg;droge heide, vergrast;struikhei+pijpestrootje;;hei 30, vergrast 70;
+52,049385;5,824151002;49,277946;43;HV_127.jpg;HV_128.jpg;HV_129.jpg;vergrast (voorm. hei);pijpestrootje;;gras 100;
+52,04920001;5,823638029;49,471661;44;HV_130.jpg;HV_131.jpg;HV_132.jpg;vergrast (voorm. hei);pijpestrootje;;gras 100;
+52,04886599;5,822763965;48,420448;45;HV_133.jpg;HV_134.jpg;HV_135.jpg;vergrast (voorm. hei);pijpestrootje;;gras 100;
+52,04886398;5,822218973;48,058422;46;HV_136.jpg;HV_137.jpg;HV_138.jpg;vergrast (voorm. hei);pijpestrootje;;gras 80, strooisel 20;
+52,04926003;5,821106024;49,272537;47;HV_139.jpg;HV_140.jpg;HV_141.jpg;droge heide, vergrast;struikhei+pijpestrootje;;hei 50, vergrast 50;
+52,04997802;5,820297003;47,566833;48;HV_142.jpg;HV_143.jpg;HV_144.jpg;droge heide;struikhei;;hei 100;
+52,05030399;5,820205975;47,189499;49;HV_145.jpg;HV_146.jpg;HV_147.jpg;droge heide-pionier;struikhei-pionier;;hei 30, humeuze grond+mos 70;
+52,05060197;5,819813032;47,277802;50;HV_148.jpg;HV_149.jpg;HV_150.jpg;droge heide-pionier;struikhei-pionier;;hei 20, humeuze grond+mos 80;
+52,05203804;5,819900036;46,118893;51;HV_151.jpg;HV_152.jpg;HV_153.jpg;droge heide;struikhei+pijpestrootje;;hei 70, vergrast 30;
+52,05238002;5,819355967;44,803825;52;HV_154.jpg;HV_155.jpg;HV_156.jpg;droge heide;struikhei+pijpestrootje;;hei 70, vergrast 30;
+52,05281203;5,81917299;44,666401;53;HV_157.jpg;HV_158.jpg;HV_159.jpg;droge heide, vergrast;struikhei+pijpestrootje;;hei 50, vergrast 50;
+52,06939696;5,838197982;42,973;54;HV_160.jpg;HV_161.jpg;HV_162.jpg;laag grasland+hei;open gras+struikhei;;hei 30, gras 60, mos 10;
+52,06948397;5,839526011;43,877563;55;HV_163.jpg;HV_164.jpg;HV_165.jpg;laag grasland;open gras;;gras 70, mos 30;
+52,07059398;5,842187013;41,780907;56;HV_166.jpg;HV_167.jpg;HV_168.jpg;droge heide;struikhei;;hei 80, gras 20;
+52,07115498;5,842750026;40,474712;57;HV_169.jpg;HV_170.jpg;HV_171.jpg;laag grasland;open gras;;gras 80, mos 20;
+52,07347803;5,847585965;41,982262;58;HV_172.jpg;HV_173.jpg;HV_174.jpg;half-open naaldbos;grove den;60;gras 90;
+52,07250698;5,847871033;41,076363;59;HV_175.jpg;HV_176.jpg;HV_177.jpg;half-open naaldbos;grove den;60;gras 90;
+52,07528198;5,860933978;46,555229;60;HV_178.jpg;HV_179.jpg;HV_180.jpg;laag grasland+hei;open gras+struikhei;;hei 20, gras 70, mos 20;
+52,07668796;5,861970987;48,303345;61;HV_181.jpg;HV_182.jpg;HV_183.jpg;laag grasland+laag  grove den;open gras;20;gras 90;
+52,07815203;5,861862022;49,722443;62;HV_184.jpg;HV_185.jpg;HV_186.jpg;naaldbos, vergrast;grove den+pijpestrootje;40;vergrast 80;
+52,07950998;5,858531976;46,63858;63;HV_187.jpg;HV_188.jpg;HV_189.jpg;vergrast (voorm. hei);pijpestrootje;;gras 95, hei 5;
+52,08236997;5,858913017;44,319538;64;HV_190.jpg;HV_191.jpg;HV_192.jpg;naalbos, verbrand (dood);grove den+laag gras;60;gras 50;
+52,08333699;5,856871018;44,404835;65;HV_193.jpg;HV_194.jpg;HV_195.jpg;vochtige vallei/ven;grasachtigen (russen, zeggen);;kruid 50, open water 50;
+52,08485596;5,857265973;45,346249;66;HV_196.jpg;HV_197.jpg;HV_198.jpg;vergrast (voorm. hei);pijpestrootje;;vergrast 100;
+52,08456301;5,857722033;43,868916;67;HV_199.jpg;HV_200.jpg;HV_201.jpg;vochtige vallei/ven;grasachtigen (russen, zeggen);;kruid 70, open water 30;
+52,08498001;5,86004097;45,594711;68;HV_202.jpg;HV_203.jpg;HV_204.jpg;vochtige vallei/ven;grasachtigen (russen, zeggen);;kruid 80, open water 20;
+52,08433402;5,861341003;47,646637;69;HV_205.jpg;HV_206.jpg;HV_207.jpg;droge heide, vergrast;struikhei+pijpestrootje;;hei 60, vergrast 30, mos+zand 10;
+52,08451699;5,862024967;48,07864;70;HV_208.jpg;HV_209.jpg;HV_210.jpg;vochtige heide-pionier;dophei+struikhei-pionier;;hei 40, pijpestrootje 10, humeus zand 50;
+52,080937;5,864671972;51,109657;71;HV_211.jpg;HV_212.jpg;HV_213.jpg;laag grasland, vermost;open gras+mos;;gras 40, mos 70;
+52,08118997;5,865034992;52,396564;72;HV_214.jpg;HV_215.jpg;HV_216.jpg;laag grasland+hei;open gras+struikhei;;hei 50, gras 50;
+52,083095;5,872865031;51,836361;73;HV_217.jpg;HV_218.jpg;HV_219.jpg;droge heide-pionier;struikhei-pionier;;hei 40, pijpestrootje 20, humeuze grond 40;
+52,07930496;5,863326006;50,083092;74;HV_220.jpg;HV_221.jpg;HV_222.jpg;loofbos;beuk;95;gras 10;
+52,07310302;5,862655034;45,287895;75;HV_223.jpg;HV_224.jpg;HV_225.jpg;half-hoog grasland, vergrast;gras+kruiden+pijpestrootje+hei;;gras+kruiden 95, hei 5;
+52,07220096;5,861660019;43,983158;76;HV_226.jpg;HV_227.jpg;HV_228.jpg;half-hoog grasland;gras+kruiden;;gras+kruiden 100;
+52,07129597;5,860340036;44,260624;77;HV_229.jpg;HV_230.jpg;HV_231.jpg;half-hoog grasland, vergrast;gras+kruiden+pijpestrootje+hei;;gras+kruiden 95, hei 5;
+52,07040003;5,858606994;44,98114;78;HV_232.jpg;HV_233.jpg;HV_234.jpg;half-hoog grasland;gras+kruiden;;gras+kruiden 100;
+52,07010498;5,85764098;46,221779;79;HV_235.jpg;HV_236.jpg;HV_237.jpg;half-hoog grasland+hei;gras+kruiden+struikhei;;gras+kruiden 50, hei 50;
+52,06897401;5,853003021;46,940422;80;HV_238.jpg;HV_239.jpg;HV_240.jpg;half-hoog grasland+hei, vergrast;gras+kruiden+pijpestrootje+hei;;gras+kruiden 80, hei 20;
+52,06836498;5,852881987;47,111652;81;HV_241.jpg;HV_242.jpg;HV_243.jpg;vergrast (voorm. hei);pijpestrootje;;vergrast 90, hei 10;
+52,06837303;5,851515988;46,204903;82;HV_244.jpg;HV_245.jpg;HV_246.jpg;half-hoog grasland, vergrast;gras+kruiden+pijpestrootje;;gras+kruiden 100;
+52,06764699;5,848879963;45,983219;83;HV_247.jpg;HV_248.jpg;HV_249.jpg;half-hoog grasland+hei;gras+kruiden+struikhei;;gras+kruiden 50, hei 50;
+52,06687703;5,84706503;46,509838;84;HV_250.jpg;HV_251.jpg;HV_252.jpg;droge heide;struikhei;;hei 100;
+52,06433203;5,842421958;52,556519;85;HV_253.jpg;HV_254.jpg;HV_255.jpg;droge heide;struikhei;;hei 90, pijpestrootje 10;
+52,06408904;5,84069998;51,964897;86;HV_256.jpg;HV_257.jpg;HV_258.jpg;gemengd bos;berk, eik, grove den;berk 30, eik 30, grove den 20;gras 10;
+52,063607;5,839990033;52,411846;87;HV_259.jpg;HV_260.jpg;HV_261.jpg;open loofbos;berk;70;gras 80;
+52,06299101;5,839877967;51,4986;88;HV_262.jpg;HV_263.jpg;HV_264.jpg;gemengd bos;grove den, beuk, berk;grove den 30, beuk  30, berk 10;;
+52,06280401;5,839301962;52,365585;89;HV_265.jpg;HV_266.jpg;HV_267.jpg;open loofbos;berk;50;;grove den 30
+52,06240201;5,839229962;52,928261;90;HV_268.jpg;HV_269.jpg;HV_270.jpg;gemengd bos;grove den, berk;grove den 30, berk 40;;
+52,06336803;5,838357992;55,362259;91;HV_271.jpg;HV_272.jpg;HV_273.jpg;loofbos;beuk;beuk 90, berk 2;;
+52,063766;5,837811995;56,918304;92;HV_274.jpg;HV_275.jpg;HV_276.jpg;loofbos;beuk;100;;
+52,06445902;5,837333975;56,427628;93;HV_277.jpg;HV_278.jpg;HV_279.jpg;loofbos;beuk;100;;
+52,064356;5,835860018;56,191662;94;HV_280.jpg;HV_281.jpg;HV_282.jpg;half-open naaldbos;grove den, berk;grove den 60, berk 5;;
+52,06482003;5,837682998;55,381752;95;HV_283.jpg;HV_284.jpg;HV_285.jpg;half-open loofbos;berk;70;gras 80;
+52,06540299;5,837263986;55,266697;96;HV_286.jpg;HV_287.jpg;HV_288.jpg;half-open gemengd bos;grove den, berk;grove den 15, berk 50;gras 70;
+52,09157799;5,792524992;39,11755;97;HV_289.jpg;HV_290.jpg;HV_291.jpg;open naaldbos;grove den, berk;grove den 40, berk 5;gras 60;struweel 50
+52,09111799;5,791150024;38,647514;98;HV_292.jpg;HV_293.jpg;HV_294.jpg;open naaldbos;grove den, berk;grove den 40, berk 5;;struweel 80
+52,09065104;5,790333962;37,326279;99;HV_295.jpg;HV_296.jpg;HV_297.jpg;struweel;struweel, berk;struweel 60, berk 5;;grove den 10
+52,08990103;5,791099984;38,072128;100;HV_298.jpg;HV_299.jpg;HV_300.jpg;loofbos;eik;100;kruid 50;
+52,08958402;5,790553987;37,279381;101;HV_301.jpg;HV_302.jpg;HV_303.jpg;gemengd bos;eik, grove den;eik 70, grove den 30;kruid 50;
+52,08912796;5,791416988;37,961277;102;HV_304.jpg;HV_305.jpg;HV_306.jpg;loofbos;eik;100;kruid 50;
+52,08808199;5,791508015;36,800819;103;HV_307.jpg;HV_308.jpg;HV_309.jpg;half-open loofbos;eik;60;kruid 10;struweel 20
+52,08739903;5,79166702;36,574963;104;HV_310.jpg;HV_311.jpg;HV_312.jpg;loofbos;eik;80;kruid 10;struweel 10
+52,08747698;5,790755991;35,594719;105;HV_313.jpg;HV_314.jpg;HV_315.jpg;gemengd bos;grove den, eik;grove den 40, eik 30;;struweel 60
+52,08707197;5,790983979;34,883667;106;HV_316.jpg;HV_317.jpg;HV_318.jpg;pionier-bos laag;grove den, eik;grove den 30, eik 5;gras 30, humeuze grond 25;struweel 15
+52,08681498;5,790724978;35,764221;107;HV_319.jpg;HV_320.jpg;HV_321.jpg;struweel+pionierbos;struweel, berk, grove den;berk 40 grove den 5;;struweel 40
+52,08631198;5,790394982;35,103058;108;HV_322.jpg;HV_323.jpg;HV_324.jpg;open naaldbos;grove den;30;gras+kruid 20;struweel 20
+52,08606999;5,791654028;32,448853;109;HV_325.jpg;HV_326.jpg;HV_327.jpg;gemengd bos;grove den, eik;grove den 40, eik 50;;
+52,08386899;5,790847018;34,299484;110;HV_328.jpg;HV_329.jpg;HV_330.jpg;loofbos;eik;100;;
+52,08312199;5,794199025;34,117043;111;HV_331.jpg;HV_332.jpg;HV_333.jpg;open gemengd bos;grove den, eik;grove den 30, eik 5;gras+kruid 50;
+52,08087598;5,793186994;37,900204;112;HV_334.jpg;HV_335.jpg;HV_336.jpg;loofbos;eik;80;kruid 20;struweel 20
+52,07732197;5,836293027;36,003506;113;HV_337.jpg;HV_338.jpg;HV_339.jpg;laag grasland+hei;open gras+struikhei;;hei 60, gras 30;
+52,07735701;5,835714005;37,462029;114;HV_340.jpg;HV_341.jpg;HV_342.jpg;laag grasland;open gras+mos;;gras 80, mos 20;
+52,07734804;5,834740028;36,927349;115;HV_343.jpg;HV_344.jpg;HV_345.jpg;open zand;zand;;zand 95, buntgras 5;
+52,07721401;5,833721962;38,901833;116;HV_346.jpg;HV_347.jpg;HV_348.jpg;open zand;zand;;100;
+52,07701997;5,832544975;43,247616;117;HV_349.jpg;HV_350.jpg;HV_351.jpg;open zand;zand;;100;
+52,07661504;5,830985019;39,651031;118;HV_352.jpg;HV_353.jpg;HV_354.jpg;open zand+laag grasland;zand+buntgras;;zand 50, gras 50;
+52,07606602;5,830397028;38,752647;119;HV_355.jpg;HV_356.jpg;HV_357.jpg;open zand+laag grasland;zand+buntgras+mos;;zand 30, gras 50, mos 20;struikhei+grove den 5
+52,07523798;5,829947004;38,594433;120;HV_358.jpg;HV_359.jpg;HV_360.jpg;laag grasland;buntgras+mos+zand;;buntgras 60, mos 30, zand 10;struikhei 2
+52,07502801;5,830897009;39,485889;121;HV_361.jpg;HV_362.jpg;HV_363.jpg;open zand+laag grasland;zand+buntgras+mos;;zand 40, gras 10, mos 50;struikhei 5
+52,07470497;5,831533028;39,869396;122;HV_364.jpg;HV_365.jpg;HV_366.jpg;laag grasland+hei;open gras+struikhei;;hei 30, gras 70;
+52,07471796;5,832887962;39,871384;123;HV_367.jpg;HV_368.jpg;HV_369.jpg;open zand+laag grasland;zand+buntgras+mos;;zand 20, gras 30, mos 50;grove den 2
+52,07417197;5,832471969;38,156536;124;HV_370.jpg;HV_371.jpg;HV_372.jpg;half-hoog grasland+hei;gras+kruiden+struikhei;;gras+kruiden 70, hei 30;
+52,07316304;5,832108026;38,431789;125;HV_373.jpg;HV_374.jpg;HV_375.jpg;half hoog grasland+mos;gras+kruiden+mos;;gras+kruiden 70, mos 30;
+52,07212402;5,831037993;41,823227;126;HV_376.jpg;HV_377.jpg;HV_378.jpg;half-hoog grasland+hei;gras+kruiden+struikhei+pijpestrootje;;gras+kruiden 70, hei 20, pijpestrootje 10;
+52,07166502;5,833444018;40,064091;127;HV_379.jpg;HV_380.jpg;HV_381.jpg;half-open naaldbos;grove den;40;gras 60, mos 40;
+52,07227296;5,834437022;41,944061;128;HV_382.jpg;HV_383.jpg;HV_384.jpg;half-open naaldbos;grove den;60;gras 60, mos 40;
+52,07324099;5,835587019;40,620167;129;HV_385.jpg;HV_386.jpg;HV_387.jpg;half-open naaldbos;grove den;70;gras 60, mos 40;
+52,07484202;5,83559297;37,309204;130;HV_388.jpg;HV_389.jpg;HV_390.jpg;laag grasland+hei;buntgras+struikhei+mos;;hei 10, gras 60, mos 30;
+52,07546202;5,834780009;37,840439;131;HV_391.jpg;HV_392.jpg;HV_393.jpg;open zand+laag grasland;zand+buntgras;;zand 50, gras 50;
+52,07615001;5,834048018;38,624454;132;HV_394.jpg;HV_395.jpg;HV_396.jpg;open zand+laag grasland;zand+buntgras+zandzegge;;zand 80, gras 20;
+52,07627499;5,835193992;37,935356;133;HV_397.jpg;HV_398.jpg;HV_399.jpg;open zand+hei;zand+struikhei+buntgras+zandzegge;;zand 80, hei 15, gras 5;
+52,10316899;5,836757971;42,794853;134;HV_400.jpg;HV_401.jpg;HV_402.jpg;half-open naaldbos;douglas;50;gras 50;
+52,10288703;5,83819597;41,00288;135;HV_403.jpg;HV_404.jpg;HV_405.jpg;gemengd bos;beuk, douglas;beuk 60, douglas 40;;
+52,10301703;5,837478982;40,160259;136;HV_406.jpg;HV_407.jpg;HV_408.jpg;gemengd bos;beuk, grove den;beuk 80, grove den 20;;beuk+douglas 10
+52,10273196;5,839476977;39,338249;137;HV_409.jpg;HV_410.jpg;HV_411.jpg;productief grasland;gras;;gras 100;
+52,102307;5,839047991;39,885452;138;HV_412.jpg;HV_413.jpg;HV_414.jpg;vochtig grasland;gras+schijngrassen;;gras 100;
+52,10242501;5,840072008;40,692551;139;HV_415.jpg;HV_416.jpg;HV_417.jpg;productief grasland;gras;;gras 100;
+52,10208496;5,839954996;41,331177;140;HV_418.jpg;HV_419.jpg;HV_420.jpg;vochtig grasland;gras+schijngrassen;;gras 90, open humeus zand 10;
+52,10217196;5,839591976;41,604115;141;HV_421.jpg;HV_422.jpg;HV_423.jpg;vochtige vallei/ven;schijngrassen+struweel;;gras 70;50
+52,10127099;5,840086006;42,478985;142;HV_424.jpg;HV_425.jpg;HV_426.jpg;loofbos;beuk;100;;
+52,10096497;5,838929974;42,759647;143;HV_427.jpg;HV_428.jpg;HV_429.jpg;loofbos;beuk;100;;
+52,10081996;5,83818499;45,001579;144;HV_430.jpg;HV_431.jpg;HV_432.jpg;gemengd bos;beuk+grove den;beuk 80, grove den 20;;
+52,10088501;5,836398974;46,586617;145;HV_433.jpg;HV_434.jpg;HV_435.jpg;naaldbos;douglas;douglas 60, eik 2;;douglas 30
+52,10035896;5,835995972;47,140778;146;HV_436.jpg;HV_437.jpg;HV_438.jpg;loofbos;beuk;beuk 80, grove den 5;;
+52,10016601;5,835369006;47,137768;147;HV_439.jpg;HV_440.jpg;HV_441.jpg;loofbos;eik, beuk;eik 80, beuk 20;;braam+douglas
+52,10009501;5,833811983;46,020866;148;HV_442.jpg;HV_443.jpg;HV_444.jpg;open water met fonteinkruid;open water;;fonteinkruid 80;
+52,10011798;5,833532028;45,656292;149;HV_445.jpg;HV_446.jpg;HV_447.jpg;vochtige vallei/ven;schijngrassen+veenmos;;100;
+52,09998203;5,833323989;45,435448;150;HV_448.jpg;HV_449.jpg;HV_450.jpg;vergrast (voorm. hei);pijpestrootje;;gras 95, hei 5;
+52,10081502;5,832717977;45,242168;151;HV_451.jpg;HV_452.jpg;HV_453.jpg;open loofbos;berk;60;gras+hei 25;grove den
+52,10086296;5,832339032;45,134018;152;HV_454.jpg;HV_455.jpg;HV_456.jpg;open loofbos;berk;60;gras+hei 25;grove den
+52,10127401;5,832598032;44,801979;153;HV_457.jpg;HV_458.jpg;HV_459.jpg;open naaldbos;grove den;60;kruid 40;
+52,10152899;5,833816007;44,166698;154;HV_460.jpg;HV_461.jpg;HV_462.jpg;droge heide+jeneverbesstruweel;struikhei, jeneverbes;berk 5;struikhei 50, jeneverbes 30, gras 20;
+52,10165497;5,834531989;43,989048;155;HV_463.jpg;HV_464.jpg;HV_465.jpg;droge heide, vergrast;struikhei, pijpestrootje;;struikhei 30, pijpestrootje 70;
+52,102178;5,835260963;45,422989;156;HV_466.jpg;HV_467.jpg;HV_468.jpg;gemengd bos;douglas, eik, kastanje;douglas 70, eik 10, kastanje 10;;
+52,10522097;5,842298996;43,037804;157;HV_469.jpg;HV_470.jpg;HV_471.jpg;open struweel+vergraste heide;struweel+struikhei;struweel 60, berk 2;hei 25, pijpestrootje 25;
+52,10581399;5,842757989;43,628178;158;HV_472.jpg;HV_473.jpg;HV_474.jpg;struweel, vergrast;struweel+pijpestrootje;struweel 60, berk+eik 2;pijpestrootje 50;
+52,105327;5,844104039;44,880424;159;HV_475.jpg;HV_476.jpg;HV_477.jpg;loofbos;eik;100;pijpestrootje;struweel+douglas
+52,10456902;5,844061039;45,154182;160;HV_478.jpg;HV_479.jpg;HV_480.jpg;naaldbos;douglas;100;;douglas
+52,104335;5,844756989;46,83987;161;HV_481.jpg;HV_482.jpg;HV_483.jpg;loofbos;beuk, eik;beuk 80, eik 20;;
+52,10382496;5,845489986;46,289543;162;HV_484.jpg;HV_485.jpg;HV_486.jpg;loofbos;eik;100;pijpestrootje 10;douglas 5
+52,10303103;5,847469037;49,098278;163;HV_487.jpg;HV_488.jpg;HV_489.jpg;naaldbos;douglas;50;;douglas 90
+52,10416703;5,846400009;46,711304;164;HV_490.jpg;HV_491.jpg;HV_492.jpg;heide;dophei+struikhei;;hei 60, pijpestrootje 20, humeus zand 10;grove den 10
+52,10469601;5,846524984;45,998764;165;HV_493.jpg;HV_494.jpg;HV_495.jpg;vergrast (voorm. hei);pijpestrootje;100;;
+52,10491;5,846492965;44,862732;166;HV_496.jpg;HV_497.jpg;HV_498.jpg;heide;dophei+struikhei;;hei 60, pijpestrootje 20, humeus zand 20;
+52,10527;5,846777027;45,120388;167;HV_499.jpg;HV_500.jpg;HV_501.jpg;laag grasland+droge heide;open gras, struikhei;;gras 35, hei 20, mos 10, humeus zand 35;
+52,10569899;5,848338995;45,276512;168;HV_502.jpg;HV_503.jpg;HV_504.jpg;struweel;struweel, pijpestrootje;;struweel 80, pijpestrootje 20;
+52,10686097;5,85018402;47,162422;169;HV_505.jpg;HV_506.jpg;HV_507.jpg;half-open loofbos;eik;60;pijpestrootje, braam;
+52,10810199;5,848538987;46,070038;170;HV_508.jpg;HV_509.jpg;HV_510.jpg;half-open loofbos;eik;60;pijpestrootje, braam;
+52,10162102;5,788445016;33,080647;171;HV_511.jpg;HV_512.jpg;HV_513.jpg;loofbos/gemengd bos;eik, grove den;eik 70, grove den 10;bosbes 70;
+52,10106304;5,787882004;31,843904;172;HV_514.jpg;HV_515.jpg;HV_516.jpg;gemengd bos;grove den, eik, beuk;grove den 60, eik 20, beuk 5;gras+kruiden 30;struweel 50
+52,10103999;5,789564;36,841618;173;HV_517.jpg;HV_518.jpg;HV_519.jpg;loofbos;eik;80;;grove den 30, berk 2, beuk 2
+52,10050397;5,790158026;34,807354;174;HV_520.jpg;HV_521.jpg;HV_522.jpg;half-open naaldbos;grove den;70;gras+kruiden 75;struweel 30
+52,10163502;5,790179987;38,518284;175;HV_523.jpg;HV_524.jpg;HV_525.jpg;loofbos;eik;eik 80, grove den 2, berk 2;bosbes 30;beuk 50
+52,102869;5,789508009;35,575474;176;HV_526.jpg;HV_527.jpg;HV_528.jpg;loofbos/gemengd bos;beuk, douglas;beuk 80, douglas 20;;
+52,10305902;5,790520962;36,172089;177;HV_529.jpg;HV_530.jpg;HV_531.jpg;loofbos/gemengd bos;beuk, douglas;beuk 80, douglas 20;;
+52,10377199;5,790427001;35,36322;178;HV_532.jpg;HV_533.jpg;HV_534.jpg;kapvlakte in loofbos;open, kaal;beuk+douglas 5;humeus zand, houtsnippers+mos;
+52,10437297;5,789581016;36,898819;179;HV_535.jpg;HV_536.jpg;HV_537.jpg;loofbos/gemengd bos;beuk, douglas;beuk 90, douglas 10;;
+52,10493699;5,790451979;37,195915;180;HV_538.jpg;HV_539.jpg;HV_540.jpg;open naaldbos;douglas;30;;douglas 80
+52,10623099;5,79019499;37,29158;181;HV_541.jpg;HV_542.jpg;HV_543.jpg;half-open naaldbos;douglas;60;gras+mos 60;douglas 20
+52,10734603;5,790664041;39,085777;182;HV_544.jpg;HV_545.jpg;HV_546.jpg;half-open naaldbos;grove den;grove den 40, douglas+eik 2;gras 80;douglas+grove den 20
+52,10813996;5,790121984;36,071095;183;HV_547.jpg;HV_548.jpg;HV_549.jpg;laag grasland;open gras;;gras 60, mos 40;grove den 30
+52,10904999;5,790908039;35,260792;184;HV_550.jpg;HV_551.jpg;HV_552.jpg;laag grasland;open gras;;gras 70, mos 40;grove den 5
+52,10544401;5,834182967;44,0933;185;HV_553.jpg;HV_554.jpg;HV_555.jpg;loofbos;eik;70;gras+mos 10;
+52,10572103;5,835086033;43,83485;186;HV_556.jpg;HV_557.jpg;HV_558.jpg;gemengd bos;eik, grove den;eik 50, grove den 30;;struweel 5
+52,10638303;5,835428014;44,625259;187;HV_559.jpg;HV_560.jpg;HV_561.jpg;gemengd bos;berk, eik, douglas;berk 30, eik 20, douglas 30;pijpestrootje 20;douglas+grove den 20
+52,10711402;5,835090978;44,156281;188;HV_562.jpg;HV_563.jpg;HV_564.jpg;naaldbos;douglas;100;;
+52,10688603;5,83393503;43,09882;189;HV_565.jpg;HV_566.jpg;HV_567.jpg;vochtige vallei/ven;schijngrassen, pijpestrootje;schijngrassen 60, pijpestrootje 30;;berk 5
+52,10646702;5,833893036;42,765381;190;HV_568.jpg;HV_569.jpg;HV_570.jpg;vochtige vallei/ven;schijngrassen, pijpestrootje;schijngrassen 80, pijpestrootje 20;;berk 5
+52,11987496;5,848992029;46,267769;191;HV_571.jpg;HV_572.jpg;HV_573.jpg;gemengd bos;grove den, eik;grove den 40, eik 40;pijpestrootje 60;struweel+beuk+berk 20
+52,11994202;5,847596023;47,075951;192;HV_574.jpg;HV_575.jpg;HV_576.jpg;gemengd bos;grove den, douglas, beuk;grove den 20, douglas 20, beuk 40;;
+52,12075297;5,846089963;44,433918;193;HV_577.jpg;HV_578.jpg;HV_579.jpg;half-open naaldbos;grove den;grove den 60;kruid+gras 80;
+52,12024796;5,84544003;44,400028;194;HV_580.jpg;HV_581.jpg;HV_582.jpg;gemengd bos;douglas, grove den, beuk;douglas 70, grove den 5, beuk 20;;
+52,12110098;5,84365502;46,078983;195;HV_583.jpg;HV_584.jpg;HV_585.jpg;laag grasland met opslag;open gras, mos;;open gras 60, mos 20;grove den 30
+52,12144598;5,841906974;45,46574;196;HV_586.jpg;HV_587.jpg;HV_588.jpg;laag grasland;open gras;;buntgras+bochtige smele 70, pijpestrootje 10, struikhei 5;grove den 5
+52,121333;5,84092604;43,628922;197;HV_589.jpg;HV_590.jpg;HV_591.jpg;droge heide+laag grasland;struikhei, open gras;;struikhei 40, gras 30, humeuze grond;grove den 5
+52,12259204;5,838446002;43,467041;198;HV_592.jpg;HV_593.jpg;HV_594.jpg;open loofbos;berk, hei;berk 30;struikhei 30, pijpestrootje+bochtige smele 30;grove den 5
+52,11914197;5,850635972;46,741367;199;HV_595.jpg;HV_596.jpg;HV_597.jpg;matig productief grasland;gras;;100;
+52,11934104;5,851225974;46,838623;200;HV_598.jpg;HV_599.jpg;HV_600.jpg;vochtig grasland;gras+schijngrassen;;90;berk 10, braam 10
+52,11965301;5,852330038;47,697384;201;HV_601.jpg;HV_602.jpg;HV_603.jpg;loofbos;beuk, eik;beuk 90, eik 10;;
+52,11922302;5,852848962;47,593281;202;HV_604.jpg;HV_605.jpg;HV_606.jpg;vergrast (voorm. hei);pijpestrootje;;100;berk 5
+52,11527204;5,854399027;49,700386;203;HV_607.jpg;HV_608.jpg;HV_609.jpg;half-open loofbos;eik;70;bosbes 20;douglas 5
+52,11624702;5,856215972;51,13554;204;HV_610.jpg;HV_611.jpg;HV_612.jpg;open loofbos;eik;40;bosbes 10, pijpestrootje 70;
+52,11728102;5,856072977;50,874096;205;HV_613.jpg;HV_614.jpg;HV_615.jpg;loofbos;berk;berk 90, grove den 10;pijpestrootje+bosbes 20;eik+struweel 40
+52,11454298;5,869142963;51,668575;206;HV_616.jpg;HV_617.jpg;HV_618.jpg;pionier-heide;dophei+struikhei;;90;
+52,105816;5,872328002;58,473988;207;HV_619.jpg;HV_620.jpg;HV_621.jpg;loofbos;eik;100;bosbes 30;beuk 5
+52,10651496;5,873156972;59,70422;208;HV_622.jpg;HV_623.jpg;HV_624.jpg;loofbos;berk, eik;berk 30, eik 50;bosbes 20;struweel 20
+52,10398598;5,870672995;53,843636;209;HV_625.jpg;HV_626.jpg;HV_627.jpg;productief grasland;gras;;100;
+52,05161501;5,851944974;44,447075;210;HV_628.jpg;HV_629.jpg;HV_630.jpg;loofbos;berk, eik;berk 10, eik 10;;struweel 20
+52,05164904;5,85597801;45,06332;211;HV_631.jpg;HV_632.jpg;HV_633.jpg;loofbos;berk;75;pijpestrootje 80;
+52,05220602;5,858140038;49,830433;212;HV_634.jpg;HV_635.jpg;HV_636.jpg;open loofbos;berk;50;;
